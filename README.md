@@ -1,6 +1,6 @@
 # sqflite_test
 
-sqflite test
+sqflite CRUD Oprations.
 
 ## Getting Started
 
